@@ -35,7 +35,7 @@
 ## 📈 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Sazid99246&show_icons=true&theme=radical&hide_title=true&include_all_commits=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sazid99246&layout=compact&theme=radical&hide_progress=true&&langs_count=8)
-[![GitHub Streak](https://streak-stats.demolab.com?user=Sazid99246&theme=radical&hide_border=true)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com?user=Sazid99246&theme=radical&hide_border=true)](https://git.io/streak-stats)
 ---
 
 ## 📫 Let's Connect
