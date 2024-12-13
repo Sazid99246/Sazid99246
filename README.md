@@ -34,7 +34,7 @@
 
 ## 📈 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Sazid99246&show_icons=true&theme=radical&hide_title=true&include_all_commits=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sazid99246&layout=pie&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sazid99246&layout=compact&theme=radical&hide_progress=true)
 
 ---
 
