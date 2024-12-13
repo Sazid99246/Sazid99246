@@ -35,7 +35,7 @@
 ## 📈 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Sazid99246&show_icons=true&theme=radical&hide_title=true&include_all_commits=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sazid99246&layout=compact&theme=radical&hide_progress=true&&langs_count=8)
-
+![trophy](https://github-profile-trophy.vercel.app/?username=Sazid99246&theme=onedark&theme=dracula)
 ---
 
 ## 📫 Let's Connect
